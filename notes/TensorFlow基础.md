@@ -1,0 +1,2 @@
+TensorFlow其实像函数式编程
+
